@@ -1,3 +1,9 @@
+#################################################
+# Learn Python Coding in 2022
+# By John Elder
+# Codemy.com
+#################################################
+
 #clear terminal
 import os
 os.system('clear')
